@@ -1,6 +1,6 @@
 .cache-ifegal
 spotify_keys.json
 .ipynb_checkpoints/
-
+.cache-*
 token.json
 venv/
