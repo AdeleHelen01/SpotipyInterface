@@ -162,6 +162,7 @@ cython_debug/
 
 .cache-ifegal
 spotify_keys.json
+news_key.txt
 .ipynb_checkpoints/
 .cache-*
 token.json
